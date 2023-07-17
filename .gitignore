@@ -1,4 +1,6 @@
 /quotation/credentials.json
 /quotation/sheets.py
+/quotation/token.json
 /myvenv
 /.ipynb_checkpoints
+/token.json
