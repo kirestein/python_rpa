@@ -4,3 +4,5 @@
 /myvenv
 /.ipynb_checkpoints
 /token.json
+/cep/sheets.py
+/cep/credentials.json
