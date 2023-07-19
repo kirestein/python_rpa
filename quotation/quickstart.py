@@ -74,7 +74,7 @@ def main():
             valueInputOption='USER_ENTERED',
             body=body_dollar
         ).execute()
-        # print(result)
+        # print(result) 
         output_values = result['values']
         [print(item) for item in output_values]
         print(values_dollar)
